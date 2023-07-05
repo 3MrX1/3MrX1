@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do MRX em Dobro 😁
+## Bem-vindo(a) ao perfil do MRX 😁
 
  <div>
    <a href="https://github.com/3MrX1">
