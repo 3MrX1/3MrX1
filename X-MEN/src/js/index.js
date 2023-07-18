@@ -28,6 +28,8 @@ personagens.forEach(personagem => {
     personagem.addEventListener("mouseenter",() => {
         personagem.classList.add("selecionado");
 
-        //passo 3 - verificar se já exista um personagem selecionado, se sim, devemos remover a seleção dele 
+        //passo 3 - verificar se já exista um personagem selecionado, se sim, devemos remover a seleção dele
+        const personagemSelecionado = document.querySelector(".selecionado");
+        personagemSelecionado.classList.remove("selecionado")
     });
 })
