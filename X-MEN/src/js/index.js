@@ -24,4 +24,6 @@ O que precisamos fazer? - quando passar o mouse em cima do personagem na lista t
 const personagens = document.querySelectorAll(".personagem ");
 
 //passo 2 - adicionar a classe selecionado no personagem que o usuário passar o cursor do mouse
-
+personagens.forEach(personagem => {
+    personagem.addEventListener("mouseenter",);
+})
